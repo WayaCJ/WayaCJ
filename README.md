@@ -15,7 +15,7 @@ As a motivated, fast learner, and detail-oriented aspiring programmer, I am seek
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cj.sotorivera@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](https://1drv.ms/b/s!AlgHjPM374Wga591HkCFJg3qu9w?e=gHq94M)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-soto-rivera-personalprofileprofilee138483330)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/carlos-soto-rivera-personalprofileprofilee138483330](https://www.linkedin.com/in/carlos-soto-rivera-personalprofileprofilee138483330/))
 </div>
     
 
